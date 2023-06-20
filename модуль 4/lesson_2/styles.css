@@ -1,0 +1,15 @@
+.paragraf-1 {
+    background: red;
+}
+
+.paragraf-2 {
+    border: red solid 3px;
+    margin: 70px;
+    padding: 30px;
+}
+
+.info {
+    font-weight: bold;
+    color: brown;
+    font-family: 'Courier New';
+}
